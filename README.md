@@ -125,3 +125,7 @@ The experiments/ folder contains standalone scripts for:
 3D Gravity: Simulating orbits around a spherical mass.
 
 Spherical Projection: Mapping 3D coordinates for global visualizations.
+
+## License
+
+This project is open source and available under the MIT License.
