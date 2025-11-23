@@ -1,3 +1,13 @@
+"""Task 7: A curious fact is that the range r of a projectile from the
+launch point, plotted against time t can, for launch angles
+greater than about 70.5 degrees, actually pass through a local
+maximum and then a minimum, before increasing with
+increasing gradient. Use the derivations to recreate the
+graphs of r vs t. Work out the times, x, y, and r values for
+these maxima and minima and plot these via a
+suitable marker."""
+
+
 import tkinter as tk
 from tkinter import ttk
 import customtkinter as ctk
