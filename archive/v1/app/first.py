@@ -7,7 +7,7 @@ from matplotlib.backend_bases import key_press_handler
 from matplotlib.backends.backend_tkagg import (FigureCanvasTkAgg,
                                                NavigationToolbar2Tk)
 from matplotlib.figure import Figure
-import keyboard
+
 
 root = tkinter.Tk()
 root.wm_title("Embedding in Tk")

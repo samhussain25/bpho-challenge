@@ -8,10 +8,10 @@ fig = plt.figure()
 ax = fig.add_subplot(projection='3d')
 
 #fig, ax = plt.subplots()
-'''
+
 
 ###################### EARTH
-image_file = 'earth.jpg'
+image_file = 'assets/earth.jpg'
 img = plt.imread(image_file)
 
 # define a grid matching the map size, subsample along with pixels
@@ -62,7 +62,7 @@ ax.axis('scaled')
 
 ax.plot_surface(x.T, y.T, z.T, facecolors=img/255, cstride=1, rstride=1) # we've already pruned ourselves
 
-'''
+
 
 # make the plot more spherical
 
