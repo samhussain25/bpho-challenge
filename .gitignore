@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 .venv/
 .DS_Store
+animation.mp4
+matplot003.mp4
+sine.mp4
