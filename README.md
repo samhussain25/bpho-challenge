@@ -9,6 +9,10 @@ A high-fidelity physics engine and visualization tool designed for the British P
 ## Demo
 
 ![Projectile Motion Demo](assets/projectile.gif)
+![Projectile Motion Demo](assets/earth_orbit_sim.png)
+![Projectile Motion Demo](assets/page7.png)
+![Projectile Motion Demo](assets/page8.png)
+![Projectile Motion Demo](assets/page9.png)
 
 
 ## Overview
