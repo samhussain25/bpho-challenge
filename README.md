@@ -56,7 +56,7 @@ bpho-challenge/
 
 ### Clone the repository:
 ```
-    Bash
+Bash
 
 git clone [https://github.com/samhussain25/bpho-challenge.git](https://github.com/samhussain25/bpho-challenge.git)
 cd bpho-challenge
@@ -79,7 +79,7 @@ python -m venv .venv
 ```
 Bash
 
-    pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 ### Usage
 
