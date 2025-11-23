@@ -1,0 +1,1 @@
+init_pos = list(zip(x,y,z)) # to create coordinates
