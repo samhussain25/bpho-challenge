@@ -96,7 +96,7 @@ Page 1-3: Basic Kinematics & Target Practice (High/Low ball).
 
 Page 4-6: Range Maximization & Bounding Parabolas.
 
-Page 7: Minima and Maxima.
+Page 7: Minima and Maxima. (more info in docstring for src/Page7.py
 
 Page 8: Bouncing Projectiles (Coefficient of Restitution).
 
