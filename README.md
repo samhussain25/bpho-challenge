@@ -6,6 +6,11 @@ A high-fidelity physics engine and visualization tool designed for the British P
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
+## Demo
+
+![Projectile Motion Demo](assets/projectile.gif)
+
+
 ## Overview
 
 This project simulates projectile motion under complex physical conditions that go beyond standard mechanics. It features a modular GUI built with CustomTkinter that allows users to interactively tweak parameters (drag coefficient, air density, restitution) and visualize the results in real-time using Matplotlib.
