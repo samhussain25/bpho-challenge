@@ -6,6 +6,15 @@ A high-fidelity physics engine and visualization tool designed for the British P
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
+## Demo
+
+![Projectile Motion Demo](assets/projectile.gif)
+![Projectile Motion Demo](assets/earth_orbit_sim.png)
+![Projectile Motion Demo](assets/page7.png)
+![Projectile Motion Demo](assets/page8.png)
+![Projectile Motion Demo](assets/page9.png)
+
+
 ## Overview
 
 This project simulates projectile motion under complex physical conditions that go beyond standard mechanics. It features a modular GUI built with CustomTkinter that allows users to interactively tweak parameters (drag coefficient, air density, restitution) and visualize the results in real-time using Matplotlib.
@@ -47,7 +56,7 @@ bpho-challenge/
 
 ### Clone the repository:
 ```
-    Bash
+Bash
 
 git clone [https://github.com/samhussain25/bpho-challenge.git](https://github.com/samhussain25/bpho-challenge.git)
 cd bpho-challenge
@@ -70,7 +79,7 @@ python -m venv .venv
 ```
 Bash
 
-    pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 ### Usage
 
@@ -87,7 +96,7 @@ Page 1-3: Basic Kinematics & Target Practice (High/Low ball).
 
 Page 4-6: Range Maximization & Bounding Parabolas.
 
-Page 7: Minima and Maxima.
+Page 7: Minima and Maxima. (more info in docstring for src/Page7.py)
 
 Page 8: Bouncing Projectiles (Coefficient of Restitution).
 
@@ -116,3 +125,7 @@ The experiments/ folder contains standalone scripts for:
 3D Gravity: Simulating orbits around a spherical mass.
 
 Spherical Projection: Mapping 3D coordinates for global visualizations.
+
+## License
+
+This project is open source and available under the MIT License.
