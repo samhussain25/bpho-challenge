@@ -55,16 +55,14 @@ bpho-challenge/
 ## Installation
 
 ### Clone the repository:
-```
-Bash
+```Bash
 
 git clone [https://github.com/samhussain25/bpho-challenge.git](https://github.com/samhussain25/bpho-challenge.git)
 cd bpho-challenge
 ```
 
 ### Set up a virtual environment (Recommended):
-```
-Bash
+```Bash
 
 # Linux/MacOS
 python3 -m venv .venv
@@ -76,16 +74,14 @@ python -m venv .venv
 ```
 
 ### Install dependencies:
-```
-Bash
+```Bash
 
 pip install -r requirements.txt
 ```
 ### Usage
 
 To launch the main dashboard and access the 9 challenge simulations:
-```
-Bash
+```Bash
 
 python src/main.py
 ```
