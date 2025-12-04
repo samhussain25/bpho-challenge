@@ -98,17 +98,9 @@ Page 8: Bouncing Projectiles (Coefficient of Restitution).
 
 Page 9: Drag vs. No-Drag Comparison.
 
-### The Physics
-
-The simulation primarily uses Semi-Implicit Euler Integration for performance, updating position and velocity at discrete time steps (dt).
-
 Extensions
 
-The experiments/ folder contains standalone scripts for:
-
-3D Gravity: Simulating orbits around a spherical mass.
-
-Spherical Projection: Mapping 3D coordinates for global visualizations.
+The experiments/ folder contains a standalone script for 3D projection around the Earth, utilising the same formulae.
 
 ## License
 
