@@ -102,18 +102,6 @@ Page 9: Drag vs. No-Drag Comparison.
 
 The simulation primarily uses Semi-Implicit Euler Integration for performance, updating position and velocity at discrete time steps (dt).
 
-For drag simulations (Page 9), the acceleration is calculated dynamically:
-
-$$ \vec{a} = \vec{g} - \frac{1}{2m} \rho C_d A v \vec{v} $$
-
-Where:
-
-rho = Air density
-
-C_d = Drag coefficient
-
-A = Cross-sectional area
-
 Extensions
 
 The experiments/ folder contains standalone scripts for:
