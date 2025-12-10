@@ -23,7 +23,7 @@ It was engineered to solve specific computational challenges ranging from basic 
 
 ## Key Features
 
-* **Advanced Drag Modeling**: Simulates quadratic air resistance (F_d proportional to v^2) taking into account air density and cross-sectional area.
+* **Advanced Drag Modeling**: Simulates quadratic air resistance ($F_d$ proportional to $v^2$) taking into account air density and cross-sectional area.
 * **Elastic Collisions**: Implements a coefficient of restitution to simulate energy loss during ground impacts (Bouncing Projectiles).
 * **Bounding Parabolas**: Visualizes the safety envelope of potential trajectories for a given launch speed.
 * **3D Simulation**: Extensions for visualizing motion in spherical coordinates and planetary gravity.
