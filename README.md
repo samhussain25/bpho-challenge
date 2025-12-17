@@ -4,7 +4,6 @@ A high-fidelity physics engine and visualization tool designed for the British P
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Active-success)
 
 ## Demo
 
