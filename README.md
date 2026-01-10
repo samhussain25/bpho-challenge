@@ -1,6 +1,6 @@
 # BPhO Computational Challenge: Projectile Simulator
 
-A high-fidelity physics engine and visualization tool designed for the British Physics Olympiad Computational Challenge.
+A high-fidelity physics engine and visualisation tool designed for the British Physics Olympiad Computational Challenge.
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -16,7 +16,7 @@ A high-fidelity physics engine and visualization tool designed for the British P
 
 ## Overview
 
-This project simulates projectile motion under complex physical conditions that go beyond standard mechanics. It features a modular GUI built with CustomTkinter that allows users to interactively tweak parameters (drag coefficient, air density, restitution) and visualize the results in real-time using Matplotlib.
+This project simulates projectile motion under complex physical conditions that go beyond standard mechanics. It features a modular GUI built with CustomTkinter that allows users to interactively tweak parameters (drag coefficient, air density, restitution) and visualise the results in real-time using Matplotlib.
 
 It was engineered to solve specific computational challenges ranging from basic kinematics to 3D orbital mechanics.
 
